@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['KakaoBank.py'],
-             pathex=['C:\\Users\\MacBook Pro\\Desktop'],
+             pathex=['C:\\Users\\MacBook Pro\\Desktop\\Kabang'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True , icon='kabang.ico')
+          console=True , icon='kabank.ico')

@@ -1,5 +1,6 @@
-(['C:\\Users\\MacBook Pro\\Desktop\\KakaoBank.py'],
- ['C:\\Users\\MacBook Pro\\Desktop', 'C:\\Users\\MacBook Pro\\Desktop'],
+(['C:\\Users\\MacBook Pro\\Desktop\\Kabang\\KakaoBank.py'],
+ ['C:\\Users\\MacBook Pro\\Desktop\\Kabang',
+  'C:\\Users\\MacBook Pro\\Desktop\\Kabang'],
  ['codecs'],
  [],
  [],
@@ -7,34 +8,28 @@
  False,
  False,
  '3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:05:16) [MSC v.1915 32 bit (Intel)]',
- [('KakaoBank', 'C:\\Users\\MacBook Pro\\Desktop\\KakaoBank.py', 'PYSOURCE')],
- [('tokenize',
+ [('KakaoBank',
+   'C:\\Users\\MacBook Pro\\Desktop\\Kabang\\KakaoBank.py',
+   'PYSOURCE')],
+ [('quopri',
    'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\tokenize.py',
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
    'PYMODULE'),
-  ('argparse',
+  ('getopt',
    'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
-   'PYMODULE'),
-  ('textwrap',
-   'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('copy',
-   'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
    'PYMODULE'),
   ('gettext',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\gettext.py',
    'PYMODULE'),
+  ('copy',
+   'c:\\users\\macbook '
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\copy.py',
+   'PYMODULE'),
   ('struct',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.py',
-   'PYMODULE'),
-  ('token',
-   'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\token.py',
    'PYMODULE'),
   ('os',
    'c:\\users\\macbook '
@@ -76,6 +71,14 @@
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\calendar.py',
    'PYMODULE'),
+  ('argparse',
+   'c:\\users\\macbook '
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\macbook '
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\textwrap.py',
+   'PYMODULE'),
   ('ntpath',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\ntpath.py',
@@ -96,21 +99,9 @@
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\stat.py',
    'PYMODULE'),
-  ('base64',
-   'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
-   'PYMODULE'),
-  ('getopt',
-   'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\getopt.py',
-   'PYMODULE'),
   ('stringprep',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\stringprep.py',
-   'PYMODULE'),
-  ('quopri',
-   'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\quopri.py',
    'PYMODULE'),
   ('bz2',
    'c:\\users\\macbook '
@@ -119,6 +110,10 @@
   ('_compression',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\_compression.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\macbook '
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\base64.py',
    'PYMODULE'),
   ('doctest',
    'c:\\users\\macbook '
@@ -376,6 +371,14 @@
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\urllib\\parse.py',
    'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\macbook '
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\macbook '
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\token.py',
+   'PYMODULE'),
   ('platform',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\platform.py',
@@ -532,17 +535,17 @@
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\__future__.py',
    'PYMODULE'),
-  ('_py_abc',
+  ('typing',
    'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
    'PYMODULE'),
   ('tracemalloc',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('typing',
+  ('_py_abc',
    'c:\\users\\macbook '
-   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\typing.py',
+   'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\_py_abc.py',
    'PYMODULE')],
  [('VCRUNTIME140.dll',
    'c:\\users\\macbook '
@@ -595,6 +598,7 @@
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\MacBook Pro\\Desktop\\build\\KakaoBank\\base_library.zip',
+   'C:\\Users\\MacBook '
+   'Pro\\Desktop\\Kabang\\build\\KakaoBank\\base_library.zip',
    'DATA')],
  [])

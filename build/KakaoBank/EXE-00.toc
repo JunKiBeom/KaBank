@@ -1,8 +1,8 @@
-('C:\\Users\\MacBook Pro\\Desktop\\dist\\KakaoBank.exe',
+('C:\\Users\\MacBook Pro\\Desktop\\Kabang\\dist\\KakaoBank.exe',
  True,
  False,
  False,
- 'kabang.ico',
+ 'kabank.ico',
  None,
  False,
  False,
@@ -10,7 +10,7 @@
  True,
  'KakaoBank.pkg',
  [('PYZ-00.pyz',
-   'C:\\Users\\MacBook Pro\\Desktop\\build\\KakaoBank\\PYZ-00.pyz',
+   'C:\\Users\\MacBook Pro\\Desktop\\Kabang\\build\\KakaoBank\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'c:\\users\\macbook '
@@ -32,7 +32,9 @@
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
    'PYSOURCE'),
-  ('KakaoBank', 'C:\\Users\\MacBook Pro\\Desktop\\KakaoBank.py', 'PYSOURCE'),
+  ('KakaoBank',
+   'C:\\Users\\MacBook Pro\\Desktop\\Kabang\\KakaoBank.py',
+   'PYSOURCE'),
   ('VCRUNTIME140.dll',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\VCRUNTIME140.dll',
@@ -82,16 +84,18 @@
    'pro\\appdata\\local\\programs\\python\\python37-32\\DLLs\\libssl-1_1.dll',
    'BINARY'),
   ('base_library.zip',
-   'C:\\Users\\MacBook Pro\\Desktop\\build\\KakaoBank\\base_library.zip',
+   'C:\\Users\\MacBook '
+   'Pro\\Desktop\\Kabang\\build\\KakaoBank\\base_library.zip',
    'DATA'),
   ('KakaoBank.exe.manifest',
-   'C:\\Users\\MacBook Pro\\Desktop\\build\\KakaoBank\\KakaoBank.exe.manifest',
+   'C:\\Users\\MacBook '
+   'Pro\\Desktop\\Kabang\\build\\KakaoBank\\KakaoBank.exe.manifest',
    'BINARY'),
   ('pyi-windows-manifest-filename KakaoBank.exe.manifest', '', 'OPTION')],
  [],
  False,
  False,
- 1587460210,
+ 1587484636,
  [('run.exe',
    'c:\\users\\macbook '
    'pro\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-32bit\\run.exe',
